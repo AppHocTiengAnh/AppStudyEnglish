@@ -10,4 +10,9 @@
     <color name="background">#E7ECEE</color>
     <color name="login_text">#0A2A66</color>
     <color name="red">#F42A2A</color>
+    <color name="colorPrimary">#008b8b</color>
+    <color name="colorPrimaryDark">#a9a9a9</color>
+    <color name="colorAccent">#cd5c5c</color><!--#77b3d4-->
+    <color name="orange">#F67D48</color>
+    <color name="dark_blue">#152C4E</color>
 </resources>
