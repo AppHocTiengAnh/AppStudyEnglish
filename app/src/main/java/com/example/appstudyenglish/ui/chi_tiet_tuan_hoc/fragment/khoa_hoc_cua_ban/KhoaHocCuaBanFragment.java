@@ -1,4 +1,4 @@
-package com.example.appstudyenglish.ui.fragment.khoa_hoc_cua_ban;
+package com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.khoa_hoc_cua_ban;
 
 import android.content.Intent;
 import android.database.Cursor;
@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Toast;
 
 import com.example.appstudyenglish.R;
 import com.example.appstudyenglish.databinding.FragmentKhoaHocCuaBanBinding;

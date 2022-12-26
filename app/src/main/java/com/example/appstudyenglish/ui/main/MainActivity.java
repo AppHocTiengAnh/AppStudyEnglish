@@ -9,9 +9,9 @@ import android.widget.Toast;
 
 import com.example.appstudyenglish.R;
 import com.example.appstudyenglish.databinding.ActivityMainBinding;
-import com.example.appstudyenglish.ui.fragment.home.HomeFragment;
-import com.example.appstudyenglish.ui.fragment.khoa_hoc_cua_ban.KhoaHocCuaBanFragment;
-import com.example.appstudyenglish.ui.fragment.profile.ProfileFragment;
+import com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.home.HomeFragment;
+import com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.khoa_hoc_cua_ban.KhoaHocCuaBanFragment;
+import com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.profile.ProfileFragment;
 
 public class MainActivity extends AppCompatActivity {
 

@@ -1,4 +1,4 @@
-package com.example.appstudyenglish.ui.fragment.home;
+package com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.home;
 
 import android.view.LayoutInflater;
 import android.view.View;

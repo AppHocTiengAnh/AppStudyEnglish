@@ -5,7 +5,7 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        tools:context=".ui.fragment.khoa_hoc_cua_ban.KhoaHocCuaBanFragment"
+        tools:context=".ui.chi_tiet_tuan_hoc.fragment.khoa_hoc_cua_ban.KhoaHocCuaBanFragment"
         android:background="@color/background"
         android:orientation="vertical">
         <TextView

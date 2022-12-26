@@ -1,4 +1,4 @@
-package com.example.appstudyenglish.ui.fragment.search;
+package com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.search;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -11,7 +11,6 @@ import androidx.recyclerview.widget.LinearLayoutManager;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.widget.Toast;
 
 import com.example.appstudyenglish.R;
 import com.example.appstudyenglish.databinding.FragmentSearchBinding;
@@ -20,7 +19,6 @@ import com.example.appstudyenglish.ui.khoa_hoc_info.KhoaHocInfoActivity;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Locale;
 
 public class SearchFragment extends Fragment implements KhoaHocSearchAdapter.IKhoaHocSearch {
 

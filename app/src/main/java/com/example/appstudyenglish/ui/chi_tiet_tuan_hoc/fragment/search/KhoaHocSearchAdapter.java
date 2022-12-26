@@ -1,4 +1,4 @@
-package com.example.appstudyenglish.ui.fragment.search;
+package com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.search;
 
 import android.view.LayoutInflater;
 import android.view.View;
@@ -7,7 +7,6 @@ import android.view.ViewGroup;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.example.appstudyenglish.databinding.ItemKhoaHocCuaBanBinding;
 import com.example.appstudyenglish.databinding.ItemKhoaHocSearchBinding;
 import com.example.appstudyenglish.model.KhoaHoc;
 

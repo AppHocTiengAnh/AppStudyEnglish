@@ -1,4 +1,4 @@
-package com.example.appstudyenglish.ui.fragment.profile;
+package com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.profile;
 
 import static android.app.Activity.RESULT_OK;
 

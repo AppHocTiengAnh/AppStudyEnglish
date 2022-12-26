@@ -1,7 +1,6 @@
-package com.example.appstudyenglish.ui.fragment.home;
+package com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.home;
 
 import android.content.Intent;
-import android.net.Uri;
 import android.os.Bundle;
 
 import androidx.annotation.NonNull;
@@ -13,15 +12,14 @@ import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
 
-import com.bumptech.glide.Glide;
 import com.example.appstudyenglish.R;
 import com.example.appstudyenglish.databinding.FragmentHomeBinding;
 import com.example.appstudyenglish.model.KhoaHoc;
 import com.example.appstudyenglish.model.User;
 import com.example.appstudyenglish.ui.khoa_hoc_info.KhoaHocInfoActivity;
-import com.example.appstudyenglish.ui.fragment.notification.NotificationFragment;
-import com.example.appstudyenglish.ui.fragment.search.SearchFragment;
-import com.example.appstudyenglish.ui.fragment.thong_tin_vstep.ThongTinVstepFragment;
+import com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.notification.NotificationFragment;
+import com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.search.SearchFragment;
+import com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.thong_tin_vstep.ThongTinVstepFragment;
 import com.example.appstudyenglish.ui.test.TestActivity;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;

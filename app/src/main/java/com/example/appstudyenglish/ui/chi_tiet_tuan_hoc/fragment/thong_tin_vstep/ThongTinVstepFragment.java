@@ -1,4 +1,4 @@
-package com.example.appstudyenglish.ui.fragment.thong_tin_vstep;
+package com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.thong_tin_vstep;
 
 import android.os.Bundle;
 

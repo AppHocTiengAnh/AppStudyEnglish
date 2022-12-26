@@ -1,4 +1,4 @@
-package com.example.appstudyenglish.ui.fragment.khoa_hoc_cua_ban;
+package com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.khoa_hoc_cua_ban;
 
 import android.view.LayoutInflater;
 import android.view.View;

@@ -1,4 +1,4 @@
-package com.example.appstudyenglish.ui.fragment.notification;
+package com.example.appstudyenglish.ui.chi_tiet_tuan_hoc.fragment.notification;
 
 import android.view.LayoutInflater;
 import android.view.ViewGroup;
